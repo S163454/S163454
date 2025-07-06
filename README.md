@@ -16,6 +16,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<h3 align="left">👩‍💻  Contact Me</h3>
 
 <p align="left">I'm an enthusiastic IT Support Specialist with practical experience in troubleshooting, system maintenance, and end-user support. Currently, I’m working as an IT Intern at Hoechst Pakistan Limited, where I assist in managing IT infrastructure and resolving technical issues. Previously, I worked as an IT Technician at Elite School System, supporting hardware, software, and network-related tasks.
 
