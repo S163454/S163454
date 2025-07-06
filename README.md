@@ -17,7 +17,9 @@
 
 ###
 
-<p align="left">Motivated IT Support professional with hands-on experience in troubleshooting, user support, and basic IT tasks. Comfortable working with tools like Jira, MS Office, and web technologies. Quick learner with strong communication skills and a passion for solving technical problems.<br><br>- 🔭 Contact me:<br>- Sagar.abbas1818@gmail.com<br>- linkedin.com/in/sagar-abbas-c</p>
+<p align="left">I'm an enthusiastic IT Support Specialist with practical experience in troubleshooting, system maintenance, and end-user support. Currently, I’m working as an IT Intern at Hoechst Pakistan Limited, where I assist in managing IT infrastructure and resolving technical issues. Previously, I worked as an IT Technician at Elite School System, supporting hardware, software, and network-related tasks.
+
+Alongside my support roles, I'm actively involved in projects of various scales, where I’ve gained hands-on experience with multiple programming languages and continue to grow my skills in software development and system automation.<br><br>- 🔭 Contact me:<br>- Sagar.abbas1818@gmail.com<br>- linkedin.com/in/sagar-abbas-c</p>
 
 ###
 
@@ -26,23 +28,24 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+ <img src="https://skillicons.dev/icons?i=js" height="1" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=html" height="1" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=css" height="1" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=php" height="1" alt="php logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="1" alt="microsoftsqlserver logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="1" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="1" alt="jira logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="1" alt="visualstudio logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=c" height="1" alt="c logo"  />
+
 </div>
 
 ###
