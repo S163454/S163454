@@ -40,12 +40,12 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🔭  Contact Me</h3>
 
 ###
 
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"><br>- sagar.abbas18181@gmail.com I’<br>- 📚 https://www.linkedin.com/in/sagar-abbas-cs<br>- ⚡ In my free time I ...</p>
 
 
 ###
