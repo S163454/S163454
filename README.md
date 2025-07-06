@@ -19,7 +19,7 @@
 
 <p align="left">I'm an enthusiastic IT Support Specialist with practical experience in troubleshooting, system maintenance, and end-user support. Currently, I’m working as an IT Intern at Hoechst Pakistan Limited, where I assist in managing IT infrastructure and resolving technical issues. Previously, I worked as an IT Technician at Elite School System, supporting hardware, software, and network-related tasks.
 
-Alongside my support roles, I'm actively involved in projects of various scales, where I’ve gained hands-on experience with multiple programming languages and continue to grow my skills in software development and system automation.<br><br>- 🔭 Contact me:<br>- Sagar.abbas1818@gmail.com<br>- linkedin.com/in/sagar-abbas-c</p>
+Alongside my support roles, I'm actively involved in projects of various scales, where I’ve gained hands-on experience with multiple programming languages and continue to grow my skills in software development and system automation.<br><br>- 🔭 Contact me:<br>- Sagar.abbas1818@gmail.com<br>- linkedin.com/in/sagar-abbas-cs</p>
 
 ###
 
