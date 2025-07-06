@@ -1,35 +1,21 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-###
-
-
+<h1 align="left">Hello There I'm Sagar Abbas.</h1>
 
 ###
 
-<h1 align="center">Hey There I,m Sagar Abbas 👋</h1>
+<p align="left">I'm an enthusiastic IT Support Specialist with practical experience in troubleshooting, system maintenance, and end-user support. Currently, I’m working as an IT Intern at Hoechst Pakistan Limited, where I assist in managing IT infrastructure and resolving technical issues. Previously, I worked as an IT Technician at Elite School System, supporting hardware, software, and network-related tasks.<br><br>Alongside my support roles, I'm actively involved in projects of various scales, where I’ve gained hands-on experience with multiple programming languages and continue to grow my skills in software development and system automation.</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">Check-out my Certifications and Project Reports Which are Listed Above.</h3>
 
 ###
 
-
-<p align="left">I'm an enthusiastic IT Support Specialist with practical experience in troubleshooting, system maintenance, and end-user support. Currently, I’m working as an IT Intern at Hoechst Pakistan Limited, where I assist in managing IT infrastructure and resolving technical issues. Previously, I worked as an IT Technician at Elite School System, supporting hardware, software, and network-related tasks.
-
-Alongside my support roles, I'm actively involved in projects of various scales, where I’ve gained hands-on experience with multiple programming languages and continue to grow my skills in software development and system automation.<h3 align="left">👩‍💻  Contact Me</h3><br><br> Sagar.abbas1818@gmail.com<br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin logo"  />linkedin.com/in/sagar-abbas-cs</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">Skills</h2>
 
 ###
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=js" height="1" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="1" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=html" height="1" alt="html5 logo"  />
   <img width="5" />
@@ -46,17 +32,16 @@ Alongside my support roles, I'm actively involved in projects of various scales,
   <img src="https://skillicons.dev/icons?i=visualstudio" height="1" alt="visualstudio logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=c" height="1" alt="c logo"  />
-
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">Contact:</h2>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <a href="www.linkedin.com/in/sagar-abbas-cs" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
-
-###
