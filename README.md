@@ -45,7 +45,7 @@
 ###
 
 
-<p align="left"><br>- sagar.abbas18181@gmail.com I’<br>- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin logo"  /> https://www.linkedin.com/in/sagar-abbas-cs<br>- ⚡ In my free time I ...</p>
+<p align="left"><br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> sagar.abbas18181@gmail.com I’<br>- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin logo"  /> https://www.linkedin.com/in/sagar-abbas-cs<br></p>
 
 
 ###
