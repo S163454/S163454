@@ -19,29 +19,15 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=php" height="1" alt="php logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="1" alt="microsoftsqlserver logo"  />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="1" alt="microsoftsqlserver logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mysql" height="1" alt="mysql logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="1" alt="jira logo"  />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="1" alt="jira logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="1" alt="visualstudio logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=c" height="1" alt="c logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="1" alt="photoshop logo"  />
-</div>
-
-###
-
-<h3 align="left">Contact me</h3>
-
-###
-
-<div align="left">
-  <a href="sagar-abbas-cs" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="10" height="5" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
