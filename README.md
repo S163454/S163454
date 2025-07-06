@@ -5,13 +5,11 @@
 ###
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There I,m Sagar Abbas 👋</h1>
 
 ###
 
@@ -19,7 +17,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Motivated IT Support professional with hands-on experience in troubleshooting, user support, and basic IT tasks. Comfortable working with tools like Jira, MS Office, and web technologies. Quick learner with strong communication skills and a passion for solving technical problems.<br><br>- 🔭 Contact me:<br>- Sagar.abbas1818@gmail.com<br>- linkedin.com/in/sagar-abbas-c</p>
 
 ###
 
