@@ -6,6 +6,10 @@
 
 ###
 
+<h3 align="left">Check-out my Certifications and Project Reports Which are Listed Above.</h3>
+
+###
+
 <h2 align="left">Skills</h2>
 
 ###
@@ -29,9 +33,5 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=c" height="1" alt="c logo"  />
 </div>
-
-###
-
-<h3 align="left">Check-out my Certifications and Project Reports Which are Listed Below.</h3>
 
 ###
